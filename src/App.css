@@ -156,7 +156,7 @@ header .img{
 
 #icons_2{
   height: 55px;
-  position: relative;
+  position: absolute;
   top: 20px;
   margin-left: 120px;
   margin-right: 4px;
@@ -171,7 +171,7 @@ header .img{
 
 #icons_4{
   height: 55px;
-  position: relative;
+  position: absolute;
   top: 20px;
   left: 38px;
   margin-right: 35px;
