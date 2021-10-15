@@ -71,7 +71,7 @@ function App() {
                 <span className="info"><img src={Humidity} id="icons_2"/><strong>Umidade do ar: </strong>{Math.round(weather.main.humidity)}% </span>
             </div>
             <div>
-                <span className="info"><strong> <img src={Windy} id="icons_3"/> Velocidade do Vento: </strong>{weather.wind.speed} km/h </span>
+                <span className="info"><img src={Windy} id="icons_3"/><strong> Velocidade do Vento: </strong>{weather.wind.speed} km/h </span>
                 <span className="info"><img src={Pressure} id="icons_4"/><strong> Pressão Atmosferica: </strong>{weather.main.pressure} MPa </span>
             </div>
             </div>
